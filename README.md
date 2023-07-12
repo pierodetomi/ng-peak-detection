@@ -5,6 +5,8 @@ This is a TypeScript implementation of the "z-score" peak detection algorithm de
 
 For convenience, an Angular UI (with a default input dataset) is provided for testing purposes and to be able to tweak the parameters easily in an interactive fashion.
 
+![UI Screenshot](./docs/ui-screenshot.png "Angular UI")
+
 ## Algorithm Implementation
 
 You can find the algorithm implementation/porting inside the ```thresholding.service.ts``` service.
